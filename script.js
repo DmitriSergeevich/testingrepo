@@ -1,2 +1,3 @@
 function(){alert(fuck!)}
-будь здоров!
+будь здоров брат!
+welcome to github
