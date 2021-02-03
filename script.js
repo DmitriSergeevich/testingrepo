@@ -5,3 +5,4 @@ whitout pass
 again and again
 eshe razik
 nadeus posledniy
+same text
