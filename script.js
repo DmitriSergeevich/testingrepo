@@ -8,3 +8,5 @@ nadeus posledniy
 (user2 suks!)
 another line user2
 line from user 1
+
+git checkout new branch
